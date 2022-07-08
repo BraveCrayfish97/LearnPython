@@ -1,3 +1,5 @@
+#decoration with @ symbol
+#modern way
 import time
 def decoration(func):
     def inner(*args):
